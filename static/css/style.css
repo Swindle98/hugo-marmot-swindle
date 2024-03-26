@@ -39,6 +39,11 @@ ul {
     list-style: "-> "
 }
 
+blockquote {
+    border-left: 2px solid var(--accent-color);
+    padding-left: 16px;
+}
+
 table {
     display: block;
     white-space: nowrap;
